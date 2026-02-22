@@ -56,7 +56,7 @@ export default function Navbar() {
       </div>
 
       {/* Logo */}
-      <div className="pr-30">
+      <div className="pr-30 ">
         <Link href="/">
           <Image
             src="/ulaman-logo-small.svg"
@@ -70,8 +70,8 @@ export default function Navbar() {
 
       {/* CTA */}
       <div
-        className={`border-2 ${scrolled ? "border-[#c69c4f]" : "text-white"} text-[#c69c4f]
-        rounded-2xl px-8 py-3 hover:bg-[#c69c4f] hover:border-[#c69c4f] hover:text-white
+        className={`border ${scrolled ? "border-[#c69c4f]" : "text-white"} text-[#c69c4f]
+        rounded-br-2xl rounded-tl-2xl px-8 py-3 hover:bg-[#c69c4f] hover:border-[#c69c4f] hover:text-white
         transition-colors duration-300 cursor-pointer`}
       >
         Stay With Us
