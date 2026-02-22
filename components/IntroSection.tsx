@@ -20,18 +20,19 @@ export default function IntroSection() {
 
   const { scrollYProgress } = useScroll({
     target: ref,
-    offset: ["start 30%", "end 100%"],
+    offset: ["start 60%", "end 100%"],
   });
 
   const letters = text.split("");
 
   return (
-    <>
+    <section >
+      {/* Headline */}
       <div
         ref={ref}
-        className="bg-[#f0ebe2] min-h-screen flex items-center justify-center px-10"
+        className="bg-[#f0ebe2] py-24 md:py-32 lg:py-40 flex items-center justify-center px-10"
       >
-        <p className="text-4xl leading-relaxed max-w-xl text-center">
+        <p className="text-4xl leading-tight max-w-xl text-center">
           {letters.map((char, i) => {
             const start = i / letters.length;
             const end = start + 0.15;
@@ -51,8 +52,9 @@ export default function IntroSection() {
         </p>
       </div>
 
+      {/* ABOUT US */}
       <div className="bg-[#f0ebe2] px-20 grid grid-cols-2 min-h-screen">
-        <div className="px-15 py-10">
+        <div className=" border-2 px-15 py-10">
           <Carousel images={images} />
         </div>
 
@@ -86,6 +88,6 @@ export default function IntroSection() {
           </div>
         </div>
       </div>
-    </>
+    </section>
   );
 }
