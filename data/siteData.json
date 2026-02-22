@@ -1,0 +1,401 @@
+{
+  "intro": {
+    "heading": "Experience A Blend of Nature, Comfort, and Luxury",
+    "paragraph1": "Nestled among the rice fields and coconut trees of Tabanan, Ulaman is only 20 minutes away from the vibrant town of Canggu.",
+    "paragraph2": "An award-winning eco-luxury resort offering a unique hideaway experience. Embrace authenticity, balance, and harmony with nature in a healing, luxurious environment.",
+    "buttonText": "Discover More",
+    "buttonHref": "/about"
+  },
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Floating Lake",
+      "subtitle": "A luxurious floating villa on Ulaman's bio-filtered lake.",
+      "imageUrl": "/images/rooms/room-floating-lake.jpg",
+      "detailsHref": "/rooms/floating-lake"
+    },
+    {
+      "id": 2,
+      "name": "Cocoon Jungle",
+      "subtitle": "Indulge in an unparalleled blend of exotic elegance and coziness.",
+      "imageUrl": "/images/rooms/room-cocoon-jungle.jpg",
+      "detailsHref": "/rooms/cocoon-jungle"
+    },
+    {
+      "id": 3,
+      "name": "Avatar Tree House",
+      "subtitle": "Experience luxury in an avatar-inspired sky villa with 180° views.",
+      "imageUrl": "/images/rooms/room-avatar-tree-house.jpg",
+      "detailsHref": "/rooms/avatar-tree-house"
+    },
+    {
+      "id": 4,
+      "name": "Grand Lagoon Private Pool",
+      "subtitle": "Indulge in an exclusive riverside villa with jungle lagoon view.",
+      "imageUrl": "/images/rooms/room-grand-lagoon-private-pool.jpg",
+      "detailsHref": "/rooms/grand-lagoon-private-pool"
+    },
+    {
+      "id": 5,
+      "name": "Jungle Garden Pool",
+      "subtitle": "An ultimate private pool retreat at Ulaman.",
+      "imageUrl": "/images/rooms/room-jungle-garden-pool.jpg",
+      "detailsHref": "/rooms/jungle-garden-pool"
+    },
+    {
+      "id": 6,
+      "name": "Ulin Poolside",
+      "subtitle": "A luxurious jungle ground-floor oasis with direct access to the infinity pool.",
+      "imageUrl": "/images/rooms/room-ulin-poolside.jpg",
+      "detailsHref": "/rooms/ulin-poolside"
+    }
+  ],
+  "packages": [
+    {
+      "id": 1, 
+      "slug": "avatar-experience",
+      "name": "The Avatar Experience",
+      "tag": "Adventure", 
+      "tagline": "3 Days / 2 Nights",
+      "cardImageUrl": "/images/packages/package-avatar.jpg",
+      "modalImageUrl": "/images/packages/package-avatar-detail.jpg",
+      "price": "IDR 16,000,000++ / Package",
+      "details": {
+        "left": [
+          "3D2N stay at Avatar Tree House or Floating Lake",
+          "Nature Trekking or Village Tour for Couple",
+          "Daily Breakfast",
+          "Usage of Bath Bar in Room",
+          "Ulaman Exclusive Gift Bag",
+          "Welcome Drink Upon Arrival"
+        ],
+        "right": [
+          "Courses Chef's Special Selection Lunch or Dinner for Couple",
+          "Airport Pick-Up",
+          "Daily Resort Activities",
+          "Free Minibar in Room",
+          "Ulaman Chocolate Dates"
+        ]
+      }
+    },
+    {
+      "id": 2, 
+      "slug": "ultimate-honeymoon",
+      "name": "The Ultimate Honeymoon",
+      "tag": "Romance", 
+      "tagline": "3 Days / 2 Nights",
+      "cardImageUrl": "/images/packages/package-honeymoon.jpg",
+      "modalImageUrl": "/images/packages/package-honeymoon-detail.jpg",
+      "price": "IDR 15,750,000++ / Package",
+      "details": {
+        "left": [
+          "3D2N stay at Jungle Garden Pool Villa",
+          "60-Minute Balinese Massage for Couple",
+          "Floating Breakfast in Pool Villa",
+          "Airport Pick-Up",
+          "Free Minibar in Room",
+          "Ulaman Exclusive Gift Bag",
+          "Welcome Drink Upon Arrival"
+        ],
+        "right": [
+          "Romantic Dinner with a Glass of Wine / Cocktail",
+          "Flower Bath",
+          "Honeymoon Bed Decoration & Welcome Cake",
+          "Daily Breakfast",
+          "Daily Resort Activities",
+          "Ulaman Chocolate Dates"
+        ]
+      }
+    }
+  ],
+  "wellness": {
+    "headline": "Discover your path to wellness and growth.",
+    "text": "At Ulaman we redefine luxury as an experience that not only pampers the senses but also nurtures the soul. Nestled in pristine nature, our eco-luxury retreat offers a sanctuary for healing and transformation. With specialized programs year-round, enjoy dedicated attention and care, immersing yourself in rejuvenation, or profound inner change through meticulously curated activities and treatments. Your transformative journey begins here.",
+    "link": "/wellness-placeholder"
+  },
+  "spa": {
+    "watermarkTop": "Balance - Relaxation",
+    "watermarkBottom": "Renewal - Healing",
+    "imageUrl": "/images/spa/spa-dome.jpg",
+    "videoUrl": "/videos/spa-intro.mp4",
+    "headline": "A world-class gastronomic journey where nature’s finest ingredients meet culinary craftsmanship.",
+    "link": "https://earthbyulaman.com/"
+  },
+  "dine": [
+    {
+      "id": 1,
+      "imageUrl": "/images/dine/ulaman-salad.jpg",
+      "alt": "Fresh salad dish at Ulaman"
+    },
+    {
+      "id": 2,
+      "imageUrl": "/images/dine/our-chef-arik.jpg",
+      "alt": "Ulaman's chef preparing a dish"
+    },
+    {
+      "id": 3,
+      "imageUrl": "/images/dine/earth-restaurant.jpg",
+      "alt": "Interior of Ulaman's E.A.R.T.H restaurant"
+    }
+  ],
+  "map": {
+    "headline": "Discover Ulaman From Above",
+    "subheadline": "Tap on an icon,",
+    "hotspots": [
+      {
+        "id": 1,
+        "name": "Tennis Court",
+        "iconName": "Racket",
+        "left": "85.5%",
+        "top": "11.0%"
+      },
+      {
+        "id": 2,
+        "name": "Gift Shop",
+        "iconName": "Shopping Bag",
+        "left": "89.0%",
+        "top": "22.5%"
+      },
+      {
+        "id": 3,
+        "name": "Reception",
+        "iconName": "Bell",
+        "left": "88.0%",
+        "top": "20.5%"
+      },
+      {
+        "id": 4,
+        "name": "Gym",
+        "iconName": "Dumbbell",
+        "left": "82.5%",
+        "top": "15.0%"
+      },
+      {
+        "id": 5,
+        "name": "Avatar Tree House",
+        "iconName": "Tree Deciduous",
+        "left": "44.5%",
+        "top": "23.5%"
+      },
+      {
+        "id": 6,
+        "name": "Floating Lake",
+        "iconName": "Boat",
+        "left": "28.0%",
+        "top": "16.0%"
+      },
+      {
+        "id": 7,
+        "name": "E.A.R.T.H Restaurant",
+        "iconName": "Utensils",
+        "left": "55.5%",
+        "top": "41.5%"
+      },
+      {
+        "id": 8,
+        "name": "Waterfall Infinity Pool",
+        "iconName": "Pool",
+        "left": "69.5%",
+        "top": "50.0%"
+      },
+      {
+        "id": 9,
+        "name": "Grand Lagoon Villa with Pool",
+        "iconName": "Hotel",
+        "left": "10.0%",
+        "top": "70.0%"
+      },
+      {
+        "id": 10,
+        "name": "Riverside Spa",
+        "iconName": "Massage",
+        "left": "50.0%",
+        "top": "40.0%"
+      },
+      {
+        "id": 11,
+        "name": "Tree House",
+        "iconName": "Tree Deciduous",
+        "left": "62.0%",
+        "top": "29.0%"
+      },
+      {
+        "id": 12,
+        "name": "Ulin Poolside",
+        "iconName": "Pool",
+        "left": "22.5%",
+        "top": "64.0%"
+      },
+      {
+        "id": 13,
+        "name": "Waterfall & Waterfall Deck",
+        "iconName": "Waterfall",
+        "left": "45.0%",
+        "top": "53.5%"
+      },
+      {
+        "id": 14,
+        "name": "Cliffside Yoga Shala",
+        "iconName": "User",
+        "left": "55.0%",
+        "top": "25.0%"
+      },
+      {
+        "id": 15,
+        "name": "E.A.R.T.H Lounge Pool",
+        "iconName": "Pool",
+        "left": "69.0%",
+        "top": "44.5%"
+      },
+      {
+        "id": 16,
+        "name": "Cocoon Jungle",
+        "iconName": "Bed",
+        "left": "80.5%",
+        "top": "56.0%"
+      },
+      {
+        "id": 17,
+        "name": "E.A.R.T.H Lounge & Bar",
+        "iconName": "Martini",
+        "left": "60.5%",
+        "top": "32.0%"
+      },
+      {
+        "id": 18,
+        "name": "Jungle Garden Pool",
+        "iconName": "Droplet",
+        "left": "20.0%",
+        "top": "44.5%"
+      },
+      {
+        "id": 19,
+        "name": "Mandala Yoga Shala",
+        "iconName": "Lotus",
+        "left": "38.5%",
+        "top": "37.5%"
+      },
+      {
+        "id": 20,
+        "name": "Ulaman Hall",
+        "iconName": "Home",
+        "left": "35.0%",
+        "top": "25.0%"
+      }
+    ]
+  },
+  "testimonials": {
+    "headline": "What Our Guests Have To Say About Us",
+    "ratings": [
+      {
+        "platform": "Tripadvisor Reviews",
+        "rating": 4.8,
+        "count": 295,
+        "url": "https://www.tripadvisor.com/Hotel_Review-g608496-d21058098-Reviews-Ulaman_Eco_Luxury_Retreat-Tabanan_Bali.html"
+      },
+      {
+        "platform": "Google Reviews",
+        "rating": 4.7,
+        "count": 742,
+        "url": "https://www.google.com/travel/search?q=ulaman%20bali"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Alsana Trawally",
+        "date": "June 2024",
+        "title": "\"Best Experience In Bali.\"",
+        "comment": "\"Best experience I had in Bali out of all the resorts I've been to too, customer service was impeccable and the staff were so kind. Mr Komang made sure we had accommodations and did the best of his ability to make sure we had a warming welcoming. It's unbelievable that everything is made of bamboo\"",
+        "url": "https://www.tripadvisor.co.id/ShowUserReviews-g608496-d21058098-r949534794-Ulaman_Eco_Luxury_Retreat-Tabanan_Bali.html"
+      },
+      {
+        "id": 2,
+        "author": "Jane Doe",
+        "date": "May 2024",
+        "title": "\"Absolutely Stunning!\"",
+        "comment": "\"From the moment we arrived, we were treated like royalty. The architecture is breathtaking, and the food at E.A.R.T.H. restaurant was out of this world. We will definitely be back. A true eco-luxury experience.\"",
+        "url": "https://www.tripadvisor.co.id/ShowUserReviews-g608496-d21058098-r949534794-Ulaman_Eco_Luxury_Retreat-Tabanan_Bali.html"
+      },
+      {
+        "id": 3,
+        "author": "John Smith",
+        "date": "April 2024",
+        "title": "\"A Magical Retreat.\"",
+        "comment": "\"The attention to detail is incredible. Every corner of the resort is beautiful. The riverside spa was the most relaxing experience of my life. Highly recommend the Avatar Tree House for a unique stay.\"",
+        "url": "https://www.tripadvisor.co.id/ShowUserReviews-g608496-d21058098-r949534794-Ulaman_Eco_Luxury_Retreat-Tabanan_Bali.html"
+      }
+    ]
+  },
+  "facilities": [],
+  "experiences": [], 
+  "gallery": {
+    "headline": "Discover All Experiences",
+    "cta": {
+      "href": "https://ulamanbali.com/activities",
+      "label": "DISCOVER ALL EXPERIENCES"
+    },
+    "images": [
+      {
+        "id": 1,
+        "src": "/images/gallery/gallery-1-private-tennis-coach.jpg",
+        "alt": "Private Tennis Coach"
+      },
+      {
+        "id": 2,
+        "src": "/images/gallery/gallery-2-romantic-5-star.jpg",
+        "alt": "Romantic 5-Star Culinary Experience by Ulaman's Natural Waterfalls!"
+      },
+      {
+        "id": 3,
+        "src": "/images/gallery/gallery-3-private-yoga-session.jpg",
+        "alt": "Private Yoga Session (Hatha, Yin or Fly High Yoga)"
+      },
+      {
+        "id": 4,
+        "src": "/images/gallery/gallery-4-romantic-bed-decorations.jpg",
+        "alt": "Romantic Bed Decorations"
+      },
+      {
+        "id": 5,
+        "src": "/images/gallery/gallery-5-vip-airport-transfers.jpg",
+        "alt": "VIP Airport Transfers via Helicopter"
+      },
+      {
+        "id": 6,
+        "src": "/images/gallery/gallery-6-balloons-sparkles.jpg",
+        "alt": "Balloons and Sparkles"
+      },
+      {
+        "id": 7,
+        "src": "/images/gallery/gallery-7-pool-flower-decorations.jpg",
+        "alt": "Pool Flower Decorations"
+      },
+      {
+        "id": 8,
+        "src": "/images/gallery/gallery-8-pre-wedding-venue.jpg",
+        "alt": "Pre-Wedding Venue"
+      },
+      {
+        "id": 9,
+        "src": "/images/gallery/gallery-9-bathtub-flower-decorations.jpg",
+        "alt": "Bathtub Flower Decorations"
+      },
+      {
+        "id": 10,
+        "src": "/images/gallery/gallery-10-fairytale-tropical-jungle.jpg",
+        "alt": "Fairytale Tropical Jungle Wedding"
+      },
+      {
+        "id": 11,
+        "src": "/images/gallery/gallery-11-melukat-water-blessing.jpg",
+        "alt": "'Melukat' Water Blessing Ceremony"
+      },
+      {
+        "id": 12,
+        "src": "/images/gallery/gallery-12-waterfall-dining.jpg",
+        "alt": "Waterfall Dining"
+      }
+    ]
+  }
+}
